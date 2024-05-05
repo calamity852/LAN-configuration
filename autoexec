@@ -2,6 +2,8 @@ trusted_launch 0
 net_allow_multicast 0
 snd_autodetect_latency 0
 net_client_steamdatagram_enable_override -1
+cq_buffer_bloat_msecs -inf
+cq_buffer_bloat_msecs_max -inf
 violence_ablood 0
 violence_agibs 0
 violence_hblood 0
