@@ -1,3 +1,5 @@
+enable_boneflex 0
+cl_disable_deathcam_audio_mix_fade_out 1
 trusted_launch 0
 net_allow_multicast 0
 snd_autodetect_latency 0
