@@ -1,4 +1,3 @@
-"cl_usercmd_max_per_movemsg " 2147483647 
 enable_boneflex 0
 cl_disable_deathcam_audio_mix_fade_out 1
 trusted_launch 0
@@ -14,26 +13,8 @@ snd_mute_mvp_music_live_players 1
 snd_mute_losefocus 0
 cl_radar_icon_scale_min 0.4
 cl_radar_scale 0.4
-
 viewmodel_fov 68
 viewmodel_offset_x -2
 viewmodel_offset_y 2
 viewmodel_offset_z -2
-viewmodel_presetpos 4
-
-bind uparrow "r_fullscreen_gamma 1.6"
-bind downarrow "r_fullscreen_gamma 2.2"
-
-bind "space" +jump"
-bind "mwheelup" "+jump"
-bind "mwheeldown" "+jump"
-
-alias "+jump" "+jump"
-alias "+throw" "-attack; -attack2"
-alias "+fall" "-jump"
-bind "alt" "+jump; +throw; +fall"
-
-alias "+throw" "-attack; -attack2"
-alias "+runthrow" "+forward;+jump;"
-alias "-runthrow" "-jump;-forward"
-bind "t" "+runthrow;+throw"
+viewmodel_presetpos 3
