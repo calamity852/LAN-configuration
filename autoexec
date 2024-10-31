@@ -1,14 +1,8 @@
-"cl_usercmd_max_per_movemsg " 2147483647 
-enable_boneflex 0
+"cl_usercmd_max_per_movemsg " 2147483647
 cl_disable_deathcam_audio_mix_fade_out 1
-trusted_launch 0
 net_allow_multicast 0
 snd_autodetect_latency 0
 net_client_steamdatagram_enable_override -1
-violence_ablood 0
-violence_agibs 0
-violence_hblood 0
-violence_hgibs 0
 snd_voipvolume 0.8
 snd_mute_mvp_music_live_players 1
 snd_mute_losefocus 0
