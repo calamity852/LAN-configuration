@@ -1,7 +1,5 @@
-"cl_usercmd_max_per_movemsg " 2147483647
 cl_disable_deathcam_audio_mix_fade_out 1
 net_allow_multicast 0
-snd_autodetect_latency 0
 net_client_steamdatagram_enable_override -1
 snd_voipvolume 0.8
 snd_mute_mvp_music_live_players 1
@@ -14,3 +12,6 @@ viewmodel_offset_y 2
 viewmodel_offset_z -2
 viewmodel_presetpos 3
 engine_no_focus_sleep 0
+cl_predict_kill_ragdolls 0
+cl_predict_head_shot_fx 0
+cl_predict_body_shot_fx 0
