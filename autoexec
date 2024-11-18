@@ -1,7 +1,5 @@
 cl_disable_deathcam_audio_mix_fade_out 1
-net_allow_multicast 0
 net_client_steamdatagram_enable_override -1
-snd_voipvolume 0.8
 snd_mute_mvp_music_live_players 1
 snd_mute_losefocus 0
 cl_radar_icon_scale_min 0.4
