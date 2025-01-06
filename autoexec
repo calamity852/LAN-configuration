@@ -1,5 +1,10 @@
 cl_disable_deathcam_audio_mix_fade_out 1
 net_client_steamdatagram_enable_override -1
+violence_ablood 0
+violence_agibs 0
+violence_hblood 0
+violence_hgibs 0
+snd_voipvolume 0.8
 snd_mute_mvp_music_live_players 1
 snd_mute_losefocus 0
 cl_radar_icon_scale_min 0.4
@@ -10,6 +15,7 @@ viewmodel_offset_y 2
 viewmodel_offset_z -2
 viewmodel_presetpos 3
 engine_no_focus_sleep 0
+r_particle_shadows_compute 0
 cl_predict_kill_ragdolls 0
 cl_predict_head_shot_fx 0
 cl_predict_body_shot_fx 0
