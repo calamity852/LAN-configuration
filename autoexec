@@ -19,3 +19,34 @@ r_particle_shadows_compute 0
 cl_predict_kill_ragdolls 0
 cl_predict_head_shot_fx 0
 cl_predict_body_shot_fx 0
+cl_frametime_summary_report_detailed 0
+cl_crosshair_friendly_warning 0
+cl_hud_color 2
+cl_hud_telemetry_frametime_show 0
+cl_hud_telemetry_net_misdelivery_show 0
+cl_hud_telemetry_net_quality_graph_show 0
+cl_hud_telemetry_ping_show 0
+fps_max 0
+fps_max_ui 0
+fps_max_tools 0
+r_player_visibility_mode 0
+cl_hud_radar_background_alpha 1
+cl_hud_radar_blur_background 0
+cl_hud_radar_map_additive 0
+cl_hud_radar_scale 1.3
+cl_radar_always_centered 0
+cl_radar_icon_scale_min 0.4
+cl_radar_rotate 1
+cl_radar_scale_dynamic 0
+cl_radar_square_always 0
+cl_radar_square_with_scoreboard 0
+cl_sniper_delay_unscope 0
+bind mwheeldown "+jump"
+bind mwheelup "+jump"
+/bind f12 "say_team .unpause"
+/bind f11 "say_team .pause"
+/bind f10 "say_team .tac"
+/bind f9 "say_team .tech"
+/bind f7 "say_team .ct"
+/bind f8 "say_team .t"
+bind CAPSLOCK "noclip"
