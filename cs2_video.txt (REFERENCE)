@@ -1,4 +1,4 @@
-"video.cfg"
+"video.cfg" (COPY AT YOUR RISK! S2 MAY REACT TO FIRST THREE MISMATCHED LINES!)
 {
 	"Version"		"16"
 	"VendorID"		"4318"
@@ -33,3 +33,4 @@
 	"setting.r_low_latency"		"0"
 	"setting.aspectratiomode"		"1"
 }
+
