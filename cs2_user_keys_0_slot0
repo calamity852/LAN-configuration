@@ -6,7 +6,7 @@
 		"MWHEELUP"		"+jump"
 		"MWHEELDOWN"		"+jump"
 		"i"		"<unbound>"
-		"MOUSE1"		"+attack"
+		"h"		"<unbound>"
 		"6"		"<unbound>"
 		"F1"		"slot6"
 		"7"		"<unbound>"
@@ -15,10 +15,14 @@
 		"F3"		"slot8"
 		"0"		"<unbound>"
 		"F4"		"slot10"
+		"x"		"<unbound>"
+		"q"		"toggleradarscale"
 		"MOUSE3"		"<unbound>"
 		"MOUSE4"		"player_ping"
 		"MOUSE5"		"+voicerecord"
 		"c"		"<unbound>"
 		"v"		"<unbound>"
+		"PGUP"		"volume 1"
+		"PGDN"		"volume 0"
 	}
 }
